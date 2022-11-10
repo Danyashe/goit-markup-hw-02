@@ -120,11 +120,13 @@ text-align: center;
     background-color: #2F303A;
 }
 .contacts-text {
+font-style: normal;
 font-size: 14px;
 line-height: 1.7143;
 color: #FFFFFF;
 }
 .contacts-title {
+text-decoration: none;
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
